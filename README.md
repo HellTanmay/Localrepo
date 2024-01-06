@@ -1,1 +1,1 @@
-This is an html demo
+<b>This is a counter program </b>
